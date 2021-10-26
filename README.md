@@ -8,3 +8,6 @@
 * Board com os dados totais da covid mundial
 * Acréscimo da informação de mortes por milhão
 * Alteração do Grid, para fazer linhas com 3 colunas na tela md
+
+# Link do projeto
+* [link do projeto](https://covid19-dio-pwa.netlify.app/)
